@@ -12,7 +12,7 @@ H<sub>2</sub>O
 ### h3 Heading
 #### h4 Heading
 ##### h5 Heading
-
+###### h6 Heading
 @qashka2 :+1: This PR looks great - it's ready to merge! :-1:
 
 Alternatively, for H1 and H2, an underline-ish style:
