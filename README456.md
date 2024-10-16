@@ -7,10 +7,6 @@ H<sub>2</sub>O
 
 # Headers
 
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
 ##### h5 Heading
 
 @qashka2 :+1: This PR looks great - it's ready to merge! :-1:
