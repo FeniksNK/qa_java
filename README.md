@@ -1,10 +1,3 @@
-H<sub>2</sub>O
-
-
-`http://www.example.com`
-
-# MDshka
-
 # Headers
 
 # h1 Heading
